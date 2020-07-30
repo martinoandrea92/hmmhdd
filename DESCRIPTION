@@ -20,3 +20,5 @@ Encoding: UTF-8
 RoxygenNote: 6.1.1
 Imports: graphics, stats, gmfd, mvtnorm, roahd
 Suggests: knitr, rmarkdown
+URL: http://github.com/martinoandrea92/hmmhdd
+BugReports: http://github.com/martinoandrea92/hmmhdd/issues
